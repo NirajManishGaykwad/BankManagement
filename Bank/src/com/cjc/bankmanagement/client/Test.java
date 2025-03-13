@@ -8,6 +8,9 @@ public class Test
 	public static void main(String[] args)
 	{
 		System.out.print("Version 1.1");
+		System.out.print("Version 1.2");
+		System.out.print("Version 1.2");
+		System.out.print("Version 1.2");
 		
 		RBI bank= new SBI();
 		
